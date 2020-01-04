@@ -1,0 +1,8 @@
+amount of edges in a graph : 
+ 2207
+flushed_array : 
+ [3, 73, 141, 151, 201, 353, 355, 430, 532, 743]
+array of tops with max degree : 
+ [[41, 13]]
+graph diameter : 
+ 9
